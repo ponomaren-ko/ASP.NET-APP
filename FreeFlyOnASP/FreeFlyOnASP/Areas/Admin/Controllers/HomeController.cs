@@ -86,8 +86,22 @@ namespace FreeFlyOnASP.Areas.Admin.Controllers
                 return View();
             }
         }
-
+        
         public ActionResult Cataloge()
+        {
+            ViewBag.Books = new List<Book>();
+            using (BookContext bookContext = new BookContext())
+            {
+                ViewBag.Books = bookContext.Books.ToList();
+            }
+
+
+            return View();
+        }
+
+
+
+        public ActionResult Contact()
         {
             ViewBag.Books = new List<Book>();
             using (BookContext bookContext = new BookContext())

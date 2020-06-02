@@ -88,7 +88,6 @@ D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\System.Web.WebPa
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\System.Net.Http.Formatting.resources.dll
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\System.Web.Http.resources.dll
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\System.Web.Http.WebHost.resources.dll
-D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.csprojAssemblyReference.cache
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.csproj.CoreCompileInputs.cache
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.csproj.CopyComplete
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.dll
@@ -99,3 +98,4 @@ D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\EntityFramework.xml
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\EntityFramework.SqlServer.xml
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\EntityFramework.resources.dll
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.csprojAssemblyReference.cache
