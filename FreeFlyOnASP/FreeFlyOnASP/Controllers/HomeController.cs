@@ -26,5 +26,13 @@ namespace FreeFlyOnASP.Controllers
 
             return View();
         }
+
+        public ActionResult Cataloge()
+        {
+            ViewBag.Message = "Here are all books.";
+            
+
+            return View();
+        }
     }
 }

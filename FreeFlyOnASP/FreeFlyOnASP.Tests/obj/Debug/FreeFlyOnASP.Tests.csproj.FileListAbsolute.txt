@@ -52,3 +52,12 @@ D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\obj\Debug\FreeFly
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\obj\Debug\FreeFlyOnASP.Tests.csproj.CopyComplete
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\obj\Debug\FreeFlyOnASP.Tests.dll
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\obj\Debug\FreeFlyOnASP.Tests.pdb
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\WebGrease.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\EntityFramework.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\EntityFramework.xml
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\ru\EntityFramework.resources.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP.Tests\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

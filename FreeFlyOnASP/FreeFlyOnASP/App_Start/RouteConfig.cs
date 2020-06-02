@@ -16,6 +16,7 @@ namespace FreeFlyOnASP
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
+                namespaces: new[] { "FreeFlyOnASP.Controllers" },
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
         }

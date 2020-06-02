@@ -93,3 +93,9 @@ D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.csproj.CopyComplete
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.dll
 D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\obj\Debug\FreeFlyOnASP.pdb
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\EntityFramework.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\EntityFramework.SqlServer.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\EntityFramework.xml
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\EntityFramework.SqlServer.xml
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\EntityFramework.resources.dll
+D:\Hobby\Git\Repos\ASP.NET-APP\FreeFlyOnASP\FreeFlyOnASP\bin\ru\EntityFramework.SqlServer.resources.dll
