@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FreeFlyOnASP.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -84,6 +85,24 @@ namespace FreeFlyOnASP.Areas.User.Controllers
             {
                 return View();
             }
+        }
+
+        public ActionResult Cataloge()
+        {
+            ViewBag.Books = new List<Book>();
+            using (BookContext bookContext = new BookContext())
+            {
+                ViewBag.Books = bookContext.Books.ToList();
+            }
+
+
+            return View();
+        }
+
+        public ActionResult Support()
+        {
+      
+            return View();
         }
     }
 }

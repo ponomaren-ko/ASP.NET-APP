@@ -141,6 +141,9 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Authorization\AuthorizationAreaRegistration.cs" />
+    <Compile Include="Areas\Authorization\Controllers\SignInController.cs" />
+    <Compile Include="Areas\Authorization\Controllers\SignUpController.cs" />
     <Compile Include="Areas\User\Controllers\HomeController.cs" />
     <Compile Include="Areas\User\UserAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -149,6 +152,7 @@
     </Compile>
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\BookContext.cs" />
+    <Compile Include="Models\Client.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -171,6 +175,16 @@
     <Content Include="Areas\User\Views\web.config" />
     <Content Include="Areas\Admin\Views\Home\Contact.cshtml" />
     <Content Include="Areas\Admin\Views\Home\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Shared\Error.cshtml" />
+    <Content Include="Areas\Admin\Views\Shared\_AdminLayout.cshtml" />
+    <Content Include="Areas\Admin\Views\Home\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\Home\Buy.cshtml" />
+    <Content Include="Areas\Authorization\Views\web.config" />
+    <Content Include="Areas\Authorization\Views\SignIn\Index.cshtml" />
+    <Content Include="Areas\Authorization\Views\Shared\_AuthorizationLayout.cshtml" />
+    <Content Include="Areas\Authorization\Views\SignUp\Index.cshtml" />
+    <Content Include="Areas\User\Views\Home\Cataloge.cshtml" />
+    <Content Include="Areas\User\Views\Home\Support.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -201,7 +215,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="Areas\Authorization\Data\" />
     <Folder Include="Areas\User\Data\" />
   </ItemGroup>
   <ItemGroup>

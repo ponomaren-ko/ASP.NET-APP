@@ -112,5 +112,27 @@ namespace FreeFlyOnASP.Areas.Admin.Controllers
 
             return View();
         }
+
+
+        [HttpPost]
+        public string Buy(Order order)
+        {
+            order.Date = DateTime.Now;
+            using (BookContext db = new BookContext())
+            {
+                // добавляем информацию о покупке в базу данных
+                db.Orders.Add(order);
+                // сохраняем в бд все изменения
+                db.SaveChanges();
+            }
+            return "Спасибо," + " за покупку!";
+        }
+        [HttpGet]
+        public ActionResult Buy(int id)
+        {
+            ViewBag.BookId = id;
+            return View();
+        }
+
     }
 }

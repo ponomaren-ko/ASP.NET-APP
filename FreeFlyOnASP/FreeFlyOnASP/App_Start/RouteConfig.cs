@@ -17,7 +17,7 @@ namespace FreeFlyOnASP
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
-                namespaces: new[] { "FreeFlyOnASP.Areas.Admin.Controllers" }
+                namespaces: new[] { "FreeFlyOnASP.Areas.User.Controllers" }
             );
         }
     }
